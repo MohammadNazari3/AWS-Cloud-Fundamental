@@ -1,0 +1,4 @@
+Name: dg
+Assigned Cases: 433
+Closed Cases: 23
+Percentage: 5.31%
